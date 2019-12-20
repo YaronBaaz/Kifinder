@@ -8,5 +8,5 @@ setup(name='functions',
    author_email='yb685@nyu.edu',
    url='https://github.com/YaronBaaz/Kifinder',
    py_modules=['KiFinder_functions'],
-   install_requires=['Adafruit_BBIO', 'pyserial' , MFRC522, SimpleMFRC522],
+   install_requires=['Adafruit_BBIO', 'pyserial' , 'MFRC522', 'SimpleMFRC522'],
  )
